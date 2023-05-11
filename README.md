@@ -2,6 +2,7 @@
 
 
 link for the website : https://abhisheksaini22244.github.io/tictactoe-frontend/
+
 Creating a Tic Tac Toe game using HTML, CSS, and JavaScript involves using the Document Object Model (DOM) to manipulate the HTML and CSS elements on a web page. The game involves a 3x3 grid where players take turns marking X or O in each cell until one player gets three in a row horizontally, vertically, or diagonally.
 
 The HTML code for the game board is created using a table with nine cells. The CSS styles are used to format the table and cells to create the game board's visual appearance. The JavaScript code handles the game logic, which includes keeping track of each player's turn, checking for a winner, and resetting the game after it's over.
